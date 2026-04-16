@@ -4,14 +4,14 @@
 __pycache__
 
 # Env
-.env 
+.env
 myvenv/
 venv/
 
 # Datenbank
-db.sqlite 3
+db.sqlite3
 
-# Static Ordner im Projektverzeichnis 
+# Static Ordner im Projektverzeichnis
 /static/
 
 # macOS
@@ -22,11 +22,11 @@ db.sqlite 3
 
 # Windows
 Thumbs.db*
-ehthumbs*.db 
+ehthumbs*.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-#Visual Studio
+# Visual Studio
 .vscode/
 .history/
-*.code-workespace
+*.code-workspace
